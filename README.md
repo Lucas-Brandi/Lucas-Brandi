@@ -1,4 +1,4 @@
-<h1 align="center">Oii! eu sou o Lucas Brandi 💻</h1>
+<h1 align="center">Oii! eu sou Lucas Brandi 💻</h1>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lucas-Brandi&show_icons=true&theme=radical&locale=pt-br" width="45%" />
