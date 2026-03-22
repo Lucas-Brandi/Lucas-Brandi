@@ -12,7 +12,7 @@
 ---
 
 ### 🚀 No que estou focado em 2026:
-- 🛠️ Construindo aplicações escaláveis com **React** e **Java/Spring**.
+- 🛠️ Construindo aplicações escaláveis com **React** e **NestJs**.
 - 🌐 Aprimorando arquiteturas de microserviços e performance no Front-end.
 
 
