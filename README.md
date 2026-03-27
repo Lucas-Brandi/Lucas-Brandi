@@ -14,10 +14,9 @@
         <li>🛠️ Building scalable applications with <strong>React</strong> and <strong>NestJS</strong>.</li>
         <li>🌐 Improving <strong>microservices</strong> architecture and performance.</li>
       </ul>
-
       <h3>🛠️ Tech Stack</h3>
 
-      <p><strong>🌐 Front-end</strong></p>
+  <p><strong>🌐 Front-end</strong></p>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" height="30" width="40" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" height="30" width="40" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="Vite" height="30" width="40" />
@@ -25,7 +24,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" height="30" width="40" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" height="30" width="40" />
 
-      <p><strong>⚙️ Back-end & Languages</strong></p>
+  <p><strong>⚙️ Back-end & Languages</strong></p>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" height="30" width="40" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" height="30" width="40" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" height="30" width="40" />
@@ -34,16 +33,16 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring" height="30" width="40" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" height="30" width="40" />
 
-      <p><strong>🗄️ Databases</strong></p>
+  <p><strong>🗄️ Databases</strong></p>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="30" width="40" />
     </td>
     <td width="45%" valign="top">
       <h3>🎯 Current Goals</h3>
       <p>Mastering the creation of robust microservices and going deeper into the NestJS ecosystem to deliver high-performance applications.</p>
 
-      <br>
+   <br>
 
-      <h3>📫 Let's Connect!</h3>
+  <h3>📫 Let's Connect!</h3>
       <a href="https://www.linkedin.com/in/lucas-gabriel-brandi-dantas-1b358224b/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
       </a>
