@@ -49,7 +49,7 @@
 <br>
 <h3 align="center">📊 My Stats & Languages</h3>
 <div align="center">
-  <img src="github-metrics.svg" alt="GitHub Metrics" width="100%">
+  <img src="github-metrics.svg" alt="GitHub Metrics" width="67%">
 </div>
 <br>
 <div align="center">
