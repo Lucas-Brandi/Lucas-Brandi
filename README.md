@@ -47,10 +47,9 @@
   </tr>
 </table>
 <br>
-<h3 align="center">📊 My Stats</h3>
+<h3 align="center">📊 My Stats & Languages</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lucas-Brandi&show_icons=true&theme=radical&locale=en" height="195" alt="Lucas's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Brandi&layout=compact&theme=radical&locale=en" height="195" alt="Top languages" />
+  <img src="github-metrics.svg" alt="GitHub Metrics" width="67%">
 </div>
 <br>
 <div align="center">
